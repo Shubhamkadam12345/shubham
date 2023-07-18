@@ -1,0 +1,1092 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "9aafeff9-4e09-4ddc-ae1a-2e818890b872",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2830371979.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[1], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.1 String\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.1 String"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "3325ea24-8928-4129-bfc2-9b560ba141d5",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'Sudh' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[2], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m S\u001b[38;5;241m=\u001b[39m \u001b[43mSudh\u001b[49m\n",
+      "\u001b[0;31mNameError\u001b[0m: name 'Sudh' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "S= Sudh"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "7c8b7ea5-b217-42be-8534-2bdceffba108",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'sudhanshu' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[3], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m S1\u001b[38;5;241m=\u001b[39m \u001b[43msudhanshu\u001b[49m\n",
+      "\u001b[0;31mNameError\u001b[0m: name 'sudhanshu' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "S1= sudhanshu"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "3678c079-e3bf-4f31-a09a-df108a5e11e1",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "incomplete input (1337990597.py, line 2)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[4], line 2\u001b[0;36m\u001b[0m\n\u001b[0;31m    (\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m incomplete input\n"
+     ]
+    }
+   ],
+   "source": [
+    "type (s)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "fe32bad2-8b15-497d-b4f1-03f06315aaec",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "str"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "str"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "2deba965-31a9-4ae7-92ff-b1993baa636d",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'type9' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[6], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m \u001b[43mtype9\u001b[49m(s1)\n",
+      "\u001b[0;31mNameError\u001b[0m: name 'type9' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "type(s1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "1bd17e26-babc-4452-8d71-aed2af056131",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax. Perhaps you forgot a comma? (693979110.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[7], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    1= (2,3,4,5,6,7, sudh 3+7)\u001b[0m\n\u001b[0m                     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax. Perhaps you forgot a comma?\n"
+     ]
+    }
+   ],
+   "source": [
+    "1= (2,3,4,5,6,7, sudh 3+7)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "e1c5ea79-6817-45c8-8bb8-b06bda291209",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "int"
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "type (1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "075e6553-fab6-4f25-b0c1-49eeb6dbbc01",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "list"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "list"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "2754f6ff-3498-4656-845d-0e4c09b1c356",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 's' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[10], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m \u001b[43ms\u001b[49m\n",
+      "\u001b[0;31mNameError\u001b[0m: name 's' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "s"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "30f8f96b-ae74-45c2-8bcf-aa14a6c6ceea",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 's' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[11], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m \u001b[43ms\u001b[49m[\u001b[38;5;241m0\u001b[39m]\n",
+      "\u001b[0;31mNameError\u001b[0m: name 's' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "s[0]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "b4cda093-d80b-4d27-8993-605cf3e5d62a",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2395500812.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[12], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.2\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "607b27cb-9e18-4666-9c19-b9f48fe5a1e4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "6c82e0cf-7bda-4955-8c45-8d511337ab32",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1"
+      ]
+     },
+     "execution_count": 14,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "7638339e-8df4-4d6d-9e3f-fe0ac73dc871",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (306009495.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[15], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    (type) a\u001b[0m\n\u001b[0m           ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "(type) a"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "id": "11fdc9c6-90a9-4732-9e48-61586cc3786e",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "int"
+      ]
+     },
+     "execution_count": 16,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "int"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "f38d523a-13cc-41cf-a1e6-aa3bfce39f47",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'shudh' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[17], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m b\u001b[38;5;241m=\u001b[39m\u001b[43mshudh\u001b[49m\n",
+      "\u001b[0;31mNameError\u001b[0m: name 'shudh' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "b=shudh"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "a1249362-ac2b-4051-9552-17f05da990ed",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "shudh= 3535"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "id": "cbc1937e-0af0-4acc-a10c-62539145b2cd",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3535"
+      ]
+     },
+     "execution_count": 19,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "shudh"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "e2604920-4aed-4e3a-8b21-c8c3c4b943a1",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3535"
+      ]
+     },
+     "execution_count": 20,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "3535"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "id": "4cd9bd2f-672f-4945-b300-d546b8d8e80d",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (1361455048.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[21], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.3 Slash\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.3 Slash"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 22,
+   "id": "06242a5b-b5bc-4a75-a464-efd69dabfe75",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "id": "d75b526f-99b1-45b7-911b-345a88e018bd",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "b=2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "id": "9a3d376f-2468-4ec9-81af-2836dc305843",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "c=a/b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 25,
+   "id": "d558b8e5-3825-4d80-bc31-1ea9faad5f1b",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "1.5\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 26,
+   "id": "afdcfbac-ba1c-41a4-9c32-f50fe6e7d2e2",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=4"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 27,
+   "id": "71c9a738-121d-4a5b-af58-e80e436eadb8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "b=2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
+   "id": "d736a167-0ef8-4bd3-8a94-7f7d4ef8adf4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "c=a/b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "id": "4e95c7c7-7dec-4e11-8221-1c6464322254",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "<function print>"
+      ]
+     },
+     "execution_count": 29,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "print "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "id": "8d53067b-ed88-4e16-b446-f80414fe2165",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=100"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "id": "5e2ee495-bc94-47cc-aa3e-14b9adf8b2b2",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "b=56"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "id": "455ba01c-7b5e-4011-bf62-886c7af69977",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "c=a/b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "id": "04069815-ed8a-43f3-99ca-f7bdd408c6d3",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "1.7857142857142858\n"
+     ]
+    }
+   ],
+   "source": [
+    "print (c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "id": "ca3f46e6-7cae-4f98-a7ca-d2407ef9644d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=4.787"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 35,
+   "id": "7f865f92-e90f-4eef-9a08-98ccb92079c0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "b=2.565"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 36,
+   "id": "c3baf285-b3a0-4133-b7bf-744cb072b63d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "c=a//b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 37,
+   "id": "4d42d699-004a-43e3-88d9-6d95e672c122",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "1.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "print (c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 38,
+   "id": "54ac4291-2fcc-473a-bff5-459aa10b3531",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "UsageError: Line magic function `%` not found.\n"
+     ]
+    }
+   ],
+   "source": [
+    "% percantage"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 39,
+   "id": "602dc9e4-f7a1-41bf-908a-d719e626a6ae",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=10.5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 40,
+   "id": "65e4e1e8-3b9d-4a60-9bab-0e50776f9c10",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "b=0"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 42,
+   "id": "e79161d9-9a6c-43d0-9e0e-d886d8e871c6",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "Missing parentheses in call to 'print'. Did you mean print(...)? (3202028018.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[42], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    print {a} % {b}= {a%b}\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m Missing parentheses in call to 'print'. Did you mean print(...)?\n"
+     ]
+    }
+   ],
+   "source": [
+    "print {a} % {b}= {a%b}\n",
+    "expectdivisionerror as zde"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 43,
+   "id": "025d10b4-742e-4187-9217-c08a987ac751",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (3196839219.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[43], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    // double slogan\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "// double slogan "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 44,
+   "id": "9bf9feb6-983c-462f-8ef3-68a180896b5a",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 45,
+   "id": "a0b13076-d5ce-4821-b604-a2b38538d5f1",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "b=4"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "id": "17058b3c-16d6-430d-87fd-1886f8b01f12",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0\n"
+     ]
+    }
+   ],
+   "source": [
+    "print (a//b)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 47,
+   "id": "dc858054-33a7-448d-91da-52beb51b2441",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=-3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 48,
+   "id": "56a17132-10a7-4c32-b4f6-950f30b61a08",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "b=4"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 49,
+   "id": "a14594e9-9cb3-48f3-b27b-0a01b1e98e98",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "-1\n"
+     ]
+    }
+   ],
+   "source": [
+    "print (a//b)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 51,
+   "id": "845acebc-d8de-4a8e-aca2-41ded68f9cac",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (3102133347.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[51], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.4 Data type\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.4 Data type"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 53,
+   "id": "c0219d8a-7177-4ab9-ae29-7abfdd4e6621",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=1452"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 54,
+   "id": "8715110a-5a36-48c6-9ac8-1c8fcbbb486c",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (325265970.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[54], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    type a\u001b[0m\n\u001b[0m         ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "type a"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 55,
+   "id": "b79b6081-9d66-4686-8036-8c8f4d0955f4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "b=-(-4589)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 56,
+   "id": "2563efb8-4e65-4e5d-b641-ea5deadfa774",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "C=0"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 57,
+   "id": "be87db12-2a9b-4eb7-8b6b-aa0b80e243af",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers (1605319900.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[57], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    g=1,03\u001b[0m\n\u001b[0m        ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers\n"
+     ]
+    }
+   ],
+   "source": [
+    "g=1,03"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 58,
+   "id": "0ca32362-c475-47fa-b863-08a643645d57",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "h=-11,23"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 59,
+   "id": "e19f51fd-696a-453b-b53b-3d11d4828f5e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "i=34"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 60,
+   "id": "7f96eac8-80f8-4cc7-b206-53308fe63c5e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "j=2,12e-10\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 61,
+   "id": "aead81ca-62ae-44a5-8c14-bade6908a9e5",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2075653784.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[61], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.5\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 62,
+   "id": "bdbc55b0-9a89-48c0-9593-2adb5fe5c674",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'count' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[62], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m \u001b[43mcount\u001b[49m\u001b[38;5;241m<<\u001b[39m a \u001b[38;5;241m<<\u001b[39m end\n",
+      "\u001b[0;31mNameError\u001b[0m: name 'count' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "count<< a << end"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 63,
+   "id": "7b83e55c-9041-42e9-b567-710bc47bb136",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2671756347.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[63], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    int a cin a\u001b[0m\n\u001b[0m        ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "int a cin a"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 64,
+   "id": "1860da91-509c-4e0f-a4bb-5a0eb4369a7d",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2070839326.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[64], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    count b end\u001b[0m\n\u001b[0m          ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "count b end"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 65,
+   "id": "879cf8e7-cc06-433e-b0d1-c9c002f47af0",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (3270401755.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[65], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    count n end\u001b[0m\n\u001b[0m          ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "count n end"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 66,
+   "id": "fb50117d-c811-4a22-b32f-a49fa8887e40",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (4178323647.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[66], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    int n cin n\u001b[0m\n\u001b[0m        ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "int n cin n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 67,
+   "id": "c667c142-4ac9-486e-8efe-9a7972932082",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (1440038255.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[67], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.6 Loop\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.6 Loop"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 68,
+   "id": "786848f8-265f-4591-becc-cf72796a1804",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "expected ':' (571114514.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[68], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    for i in 1\u001b[0m\n\u001b[0m              ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m expected ':'\n"
+     ]
+    }
+   ],
+   "source": [
+    "for i in 1\n",
+    "if 1 % 2 0:\n",
+    "    print 1 \n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 69,
+   "id": "35c565a1-45eb-4a8e-ab1c-ae83321fd382",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (4158124586.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[69], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.7\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.7"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "aaf8ba2c-f9f9-43c7-ade5-97a3eafe0402",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "1) Python is a list creat the data on this list its means python.\n",
+    "2) list means collection of data \n",
+    "3) String means collection of cariers internal system all data set store in a form of index automati"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
